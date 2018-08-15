@@ -55,9 +55,9 @@
     "d3-collection": "^0.1.2",
     "d3-selection": "^0.7.0",
     "d3-voronoi": "^0.3.2",
-    "react-d3-basic": "^1.6.9",
-    "react-d3-core": "^1.2.6",
-    "react-d3-shape": "^0.2.12",
+    "react-d3-basic": "arbuzinski/react-d3-basic#master",
+    "react-d3-core": "arbuzinski/react-d3-core#master",
+    "react-d3-shape": "arbuzinski/react-d3-shape#master",
     "react-dom": "^0.14.7",
     "react-faux-dom": "^2.1.0"
   }

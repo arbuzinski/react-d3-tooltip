@@ -47,7 +47,8 @@
     "webpack": "^1.12.2",
     "webpack-dev-middleware": "^1.5.1",
     "webpack-dev-server": "^1.11.0",
-    "webpack-hot-middleware": "^2.9.0"
+    "webpack-hot-middleware": "^2.9.0",
+    "react-dom": "^0.14.7"
   },
   "dependencies": {
     "d3": "^3.5.6",
@@ -58,7 +59,6 @@
     "react-d3-basic": "arbuzinski/react-d3-basic#master",
     "react-d3-core": "arbuzinski/react-d3-core#master",
     "react-d3-shape": "arbuzinski/react-d3-shape#master",
-    "react-dom": "^0.14.7",
     "react-faux-dom": "^2.1.0"
   }
 }
